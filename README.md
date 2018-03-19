@@ -1,7 +1,7 @@
 # Human-or-Robot
 
 ![Company](../master/Images/CompanyLogo.png)
-<div style="text-align:center"><img src ="../master/Images/CompanyLogo.png" /></div>
+<img align="center" src ="../master/Images/CompanyLogo.png" />
 
 
 Live Auction is a fictitious company that allows bidders to bid on many different types
