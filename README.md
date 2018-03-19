@@ -1,6 +1,6 @@
 # Human-or-Robot
 
-![Company](../master/Images/CompanyLogo.png)
+
 <img align="center" src ="../master/Images/CompanyLogo.png" />
 
 
