@@ -7,7 +7,7 @@ RUN apt-get update
 RUN adduser -D -S -h /home/ds -s /bin/ash ds
 
 #install neccessary packages
-RUN pip install jupyterlab boto3 scikit-neuralnetwork imbalanced-learn  https://raw.githubusercontent.com/aigamedev/scikit-neuralnetwork/master/requirements.txt
+RUN pip install jupyterlab boto3 scikit-neuralnetwork imbalanced-learn
 RUN conda update conda
 
 #Set Variables
