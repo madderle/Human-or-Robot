@@ -7,7 +7,7 @@
 Live Auction is a fictitious company that allows bidders to bid on many different types
 of items.
 
-
+Slide show: https://docs.google.com/presentation/d/1sNV6KYoxofFhQnIhzxlM8tde7JE49uOiJAwEuhY8pms/edit?usp=sharing
 ## The Problem
 Recently the human bidders on the site are becoming increasingly frustrated
 with their inability to win auctions vs. robots. In order to rebuild customer happiness,
